@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "179772475758",
+    "project_id": "fire-login-394f5",
+    "storage_bucket": "fire-login-394f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179772475758:android:71235cc34d334dc67bd97f",
+        "android_client_info": {
+          "package_name": "com.mouhsinbourqaiba.firelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179772475758-kggl5f2ss37pobl3gb80iv3b6qj5jl1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mouhsinbourqaiba.firelogin",
+            "certificate_hash": "9f07e3e30fd891a91b3c43aa84c34145374e2ecb"
+          }
+        },
+        {
+          "client_id": "179772475758-bd9jgupekos9tf074tk6ulka7i4pu0om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Q2gOT9jIoHtGvzFgzEi1o1sJ4eD1z1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179772475758-bd9jgupekos9tf074tk6ulka7i4pu0om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
